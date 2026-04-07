@@ -70,6 +70,10 @@ tbody tr:nth-child(even) {
     background-color: #f2f2f2;
 }
 
+table a {
+    text-decoration: none;
+}
+
 body {
     background-color: var(--background);
     color: var(--text);
