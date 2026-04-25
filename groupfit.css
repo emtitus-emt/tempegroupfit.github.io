@@ -30,6 +30,13 @@ nav a {
     font-weight: bold;
 }
 
+.hero {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .hero img {
     width: 100%;
     height: auto;
