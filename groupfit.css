@@ -47,6 +47,14 @@ nav a {
     font-weight: bold;
 }
 
+nav a:visited {
+    color: var(--primary);
+}
+
+a:visited {
+    color: var(--primary);
+}
+
 .hero {
     width: 100%;
     display: flex;
