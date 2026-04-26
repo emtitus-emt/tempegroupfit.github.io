@@ -127,6 +127,14 @@ footer {
     justify-content: space-around;
     align-items: center;
     text-align: center;
+    background-color: var(--primary);
+    color: white;
+    padding: 1rem 0;
+}
+
+footer a, footer a:link, footer a:visited, footer a:hover, footer a:active {
+    color: white;
+    text-decoration: none;
 }
 
 main {
