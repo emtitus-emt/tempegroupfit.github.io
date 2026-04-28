@@ -146,6 +146,12 @@ footer a, footer a:link, footer a:visited, footer a:hover, footer a:active {
 
 main {
     margin-bottom: 50px;
+    line-height: 1.8;
+}
+
+main p,
+main li {
+    line-height: 1.8;
 }
 
 table {
